@@ -1,0 +1,8 @@
+[
+  { "name": "Windows Server & AD", "percent": 76, "note": "comfortable standing up a DC and troubleshooting replication" },
+  { "name": "Networking (Cisco)", "percent": 70, "note": "subnetting and routing decisions feel automatic now" },
+  { "name": "Virtualization", "percent": 65, "note": "snapshots and isolated lab networks, second nature" },
+  { "name": "Physical Security", "percent": 55, "note": "access control fundamentals are solid" },
+  { "name": "Security Frameworks", "percent": 40, "note": "Coursera module, still connecting theory to practice" },
+  { "name": "Linux / CLI", "percent": 28, "note": "just started — permissions are starting to click" }
+]

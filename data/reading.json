@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Google Cybersecurity Professional Certificate",
+    "source": "Coursera",
+    "status": "in-progress",
+    "note": "In the network security module right now — mapping OSI layers to attack types is finally sticking."
+  },
+  {
+    "title": "Linux Basics for Hackers",
+    "author": "OccupyTheWeb",
+    "status": "reading",
+    "note": "Working through the filesystem chapter alongside hands-on terminal practice, not just reading it."
+  },
+  {
+    "title": "Cisco Networking Academy — CCNA path",
+    "source": "Cisco",
+    "status": "completed",
+    "note": "Solid foundation. In hindsight I'd do the Packet Tracer labs twice before moving on."
+  }
+]

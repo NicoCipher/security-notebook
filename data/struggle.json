@@ -1,0 +1,4 @@
+{
+  "topic": "Linux symbolic permissions (u+x, g-w, o=r)",
+  "note": "Numeric modes like 644 I can read instantly. Symbolic mode still makes me stop and translate it in my head instead of just typing it."
+}
